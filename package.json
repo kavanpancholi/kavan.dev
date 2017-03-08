@@ -1,0 +1,24 @@
+{
+  "name": "kavanpancholi",
+  "version": "1.0.0",
+  "description": "CV Website of Kavan Pancholi",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kavan",
+    "Pancholi"
+  ],
+  "author": "Kavan Pancholi",
+  "license": "MIT",
+  "devDependencies":{
+      "gulp": "*",
+      "gulp-plumber": "*",
+      "gulp-rename": "*",
+      "gulp-clean-css": "*",
+      "gulp-uglify": "*",
+      "gulp-concat": "*",
+      "gulp-minify-html": "*"
+  }
+}
