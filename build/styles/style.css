@@ -2154,7 +2154,7 @@ h6 {
 .blue-theme .price-box.box-primary .price-box-top:before {
   border-top-color: #34AEE8;
 }
-
+.box-padding{padding: 50px 40px;}
 .success{color:#4BB543;}
 .danger{color:#B33A3A;}
 .contact-response{margin-top: 10px;}
