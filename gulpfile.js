@@ -49,7 +49,7 @@ gulp.task('html',function(){
         .pipe(gulp.dest('.'))
 });
 gulp.task('default',function(){
-    gulp.watch('src/js/**/*.js',['js']);
-    gulp.watch('src/css/**/*.css',['css']);
-    gulp.watch('src/index.html',['html']);
+    gulp.watch('src/js/**/*.js',gulp.series('js'));
+    gulp.watch('src/css/**/*.css',gulp.series('css'));
+    gulp.watch('src/index.html',gulp.series('html'));
 });
