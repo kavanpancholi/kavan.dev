@@ -2,3 +2,7 @@ node_modules
 npm-debug.log
 environment.php
 .idea/
+build/styles/style.css
+build/styles/style.min.css
+build/scripts/script.js
+build/scripts/script.min.js

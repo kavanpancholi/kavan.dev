@@ -12,13 +12,13 @@
   ],
   "author": "Kavan Pancholi",
   "license": "MIT",
-  "devDependencies":{
-      "gulp": "*",
-      "gulp-plumber": "*",
-      "gulp-rename": "*",
-      "gulp-clean-css": "*",
-      "gulp-uglify": "*",
-      "gulp-concat": "*",
-      "gulp-minify-html": "*"
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-clean-css": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*",
+    "gulp-minify-html": "*"
   }
 }
